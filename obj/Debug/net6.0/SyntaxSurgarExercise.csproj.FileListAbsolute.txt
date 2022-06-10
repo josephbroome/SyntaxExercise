@@ -1,0 +1,15 @@
+C:\Users\serge\repos\SyntaxSurgarExercise\bin\Debug\net6.0\SyntaxSurgarExercise.exe
+C:\Users\serge\repos\SyntaxSurgarExercise\bin\Debug\net6.0\SyntaxSurgarExercise.deps.json
+C:\Users\serge\repos\SyntaxSurgarExercise\bin\Debug\net6.0\SyntaxSurgarExercise.runtimeconfig.json
+C:\Users\serge\repos\SyntaxSurgarExercise\bin\Debug\net6.0\SyntaxSurgarExercise.dll
+C:\Users\serge\repos\SyntaxSurgarExercise\bin\Debug\net6.0\SyntaxSurgarExercise.pdb
+C:\Users\serge\repos\SyntaxSurgarExercise\obj\Debug\net6.0\SyntaxSurgarExercise.csproj.AssemblyReference.cache
+C:\Users\serge\repos\SyntaxSurgarExercise\obj\Debug\net6.0\SyntaxSurgarExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serge\repos\SyntaxSurgarExercise\obj\Debug\net6.0\SyntaxSurgarExercise.AssemblyInfoInputs.cache
+C:\Users\serge\repos\SyntaxSurgarExercise\obj\Debug\net6.0\SyntaxSurgarExercise.AssemblyInfo.cs
+C:\Users\serge\repos\SyntaxSurgarExercise\obj\Debug\net6.0\SyntaxSurgarExercise.csproj.CoreCompileInputs.cache
+C:\Users\serge\repos\SyntaxSurgarExercise\obj\Debug\net6.0\SyntaxSurgarExercise.dll
+C:\Users\serge\repos\SyntaxSurgarExercise\obj\Debug\net6.0\refint\SyntaxSurgarExercise.dll
+C:\Users\serge\repos\SyntaxSurgarExercise\obj\Debug\net6.0\SyntaxSurgarExercise.pdb
+C:\Users\serge\repos\SyntaxSurgarExercise\obj\Debug\net6.0\SyntaxSurgarExercise.genruntimeconfig.cache
+C:\Users\serge\repos\SyntaxSurgarExercise\obj\Debug\net6.0\ref\SyntaxSurgarExercise.dll
